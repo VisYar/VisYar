@@ -61,3 +61,5 @@ Java](https://github.com/VisYar/VisYar/files/9859325/certificate.autojava.pdf)
 программирования Python](https://github.com/VisYar/VisYar/files/9859401/certificate.python.pdf)
 
 
+[<img title="Telegram" alt="dmirieva | Telegram" width="30px" src="https://telegram.org/favicon.ico">](https://t.me/vis_yar)
+[<img title="Github" alt="dmirieva | Github" width="30px" src="https://github.githubassets.com/favicons/favicon.svg">](https://github.com/VisYar?tab=repositories)
