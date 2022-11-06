@@ -1,5 +1,5 @@
 <p align="center">
-  <img title="|Customized by Tatyana Dmitrieva|"src="https://readme-typing-svg.herokuapp.com?color=32CD32&font=Knewave&size=40&center=true&vCenter=true&lines=Tatyana+Dmitrieva;QA+engineer">
+  <img title="|Customized by Tatyana Dmitrieva|"src="https://readme-typing-svg.herokuapp.com?color=32CD32&font=Knewave&size=40&center=true&vCenter=true&lines=Dmitrieva+Tatyana;QA+engineer">
 </p>
 
 # Обо мне
