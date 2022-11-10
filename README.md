@@ -15,7 +15,7 @@ Telegram: https://t.me/vis_yar
 
 ## Учебные проекты на курсах Нетологии
 
-1. [Курсовой проект по модулю «Автоматизация тестирования»](https://github.com/VisYar/CourseProjectQA)
+1. [Курсовой проект по модулю «Автоматизация тестирования»](https://github.com/VisYar/CourseProjectQAv3)
 <p align="center">
   <img width="47" title="customized by dmitrieva" src="https://img.shields.io/badge/-Java-32CD32?logo=java&style=for-the-badge">
   <img width="75" title="customized by dmitrieva" src="https://img.shields.io/badge/-Gradle-6A54DF?logo=gradle&style=for-the-badge">
