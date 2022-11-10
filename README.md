@@ -2,7 +2,7 @@
   <img title="|Customized by Tatyana Dmitrieva|"src="https://readme-typing-svg.herokuapp.com?color=32CD32&font=Knewave&size=40&center=true&vCenter=true&lines=Dmitrieva+Tatyana;QA+engineer">
 </p>
 
-### Обо мне
+## Обо мне
 
 Я, Дмитриева Татьяна, студент "Нетология" [курс "Инженер по тестированию: с нуля до middle"](https://netology.ru/programs/qa-middle#/)
 <p align="center">
@@ -45,12 +45,12 @@ class="src-Landings-landing-ui-kit-components-Icon--root--OQrQH src-Landings-lan
 class="src-Landings-landing-ui-kit-components-Icon--root--OQrQH src-Landings-landing-ui-kit-components-Resume-components-Technology--icon--CLYDE" title="">
 </p> 
 
-### Контакты
+## Контакты
      
 Email: dmitrieva_ta@mail.ru  
 Telegram: https://t.me/vis_yar
 
-### Портфолио
+## Портфолио
 
 ### Мои проекты
 
@@ -74,7 +74,7 @@ Telegram: https://t.me/vis_yar
 - настроила систему докеризации приложения с поддержкой двух СУБД (**MySQL** и **PostgreSQL**)
 - **автоматизировала  тестовые сценарии** (API и  UI), используя паттерн **Page Object** и фреймворки **Selenide**, **REST Assured**
 - подключила и настроила **систему CI** так, чтобы тесты запускались с подключением SUT к обеим СУБД поочередно
-- оформила [**19 issue**](https://github.com/VisYar/CourseProjectQAv3/issues)
+- оформила [**19 issue**](https://github.com/VisYar/CourseProjectQAv3/issues) по найденным дефектам
 - составила [**отчет о проведенном тестировании**](https://github.com/VisYar/CourseProjectQAv3/blob/master/reports/Report.md) с подключенным **Allure**
 - составила [**отчет о проведённой автоматизации тестирования**](https://github.com/VisYar/CourseProjectQAv3/blob/master/reports/Summary.md)
 
@@ -92,7 +92,7 @@ Telegram: https://t.me/vis_yar
 - написала ** юнит теста** на заготовку кода приложения для трекинга игровой активности
 - оформила [**5 баг-репортов**]() по найденным дефектам
 - **исправила код приложения** по 3 баг-репортам, оформленным другим участником команды
-- провела ревью кода,выполненного другим участником команды
+- провела ревью кода, выполненного другим участником команды
 - настроила систему **CI (GitHub Actions)**
    
 3. [Курсовая работа по модулю "Ручное тестирование веб-приложений"]()
