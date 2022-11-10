@@ -4,27 +4,24 @@
 
 # Обо мне
 
-Я, Дмитриева Татьяна, студент "Нетология" курс "Инженер по тестированию: с нуля до middle", начинающий Java-тестировщик 
+Я, Дмитриева Татьяна, студент "Нетология" курс "Инженер по тестированию: с нуля до middle" 
 
 # Контакты
      
 Email: dmitrieva_ta@mail.ru  
 Telegram: https://t.me/vis_yar
 
+# Портфолио
 
+## Учебные проекты на курсах Нетологии
+
+1. [Курсовой проект по модулю «Автоматизация тестирования»](https://github.com/VisYar/CourseProjectQA)
 <p align="center">
   <img width="47" title="customized by dmitrieva" src="https://img.shields.io/badge/-Java-32CD32?logo=java&style=for-the-badge">
   <img width="75" title="customized by dmitrieva" src="https://img.shields.io/badge/-Gradle-6A54DF?logo=gradle&style=for-the-badge">
   <img width="74" title="customized by dmitrieva" src="https://img.shields.io/badge/-JUnit'5-32CD32?logo=junit5&style=for-the-badge&logoColor=white">
   <img width="105" title="customized by dmitrieva" src="https://img.shields.io/badge/-Allure Report-6A54DF?&style=for-the-badge">
 </p>
-
-# Портфолио
-
-## Учебные проекты на курсах Нетологии
-
-1. [Курсовой проект по модулю «Автоматизация тестирования»](https://github.com/VisYar/CourseProjectQA)
-
     В рамках курсовой работы:
 
     - 
