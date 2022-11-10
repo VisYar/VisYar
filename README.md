@@ -52,7 +52,7 @@ Telegram: https://t.me/vis_yar
 
 ### Портфолио
 
-### Учебные проекты
+### Мои проекты
 
 1. [Курсовой проект по модулю «Автоматизация тестирования»](https://github.com/VisYar/CourseProjectQAv3)
 <p align="center">
@@ -68,20 +68,45 @@ Telegram: https://t.me/vis_yar
 </p>
     В рамках курсовой работы:
 
-    - 
+- провела **исследовательское тестирование** функционала покупки тура веб-сервиса "Путешествие дня"
+- составила [**план по автоматизации**](https://github.com/VisYar/CourseProjectQAv3/blob/master/reports/Plan.md) тестирования (API и UI тестами)
+- написала **тестовый фреймворк** для управления данными и проверки состояния БД (**Faker**, **DBUtils**)
+- настроила систему докеризации приложения с поддержкой двух СУБД (**MySQL** и **PostgreSQL**)
+- **автоматизировала  тестовые сценарии** (API и  UI), используя паттерн **Page Object** и фреймворки **Selenide**, **REST Assured**
+- подключила и настроила **систему CI** так, чтобы тесты запускались с подключением SUT к обеим СУБД поочередно
+- оформила [**19 issue**](https://github.com/VisYar/CourseProjectQAv3/issues)
+- составила [**отчет о проведенном тестировании**](https://github.com/VisYar/CourseProjectQAv3/blob/master/reports/Report.md) с подключенным **Allure**
+- составила [**отчет о проведённой автоматизации тестирования**](https://github.com/VisYar/CourseProjectQAv3/blob/master/reports/Summary.md)
 
-1. [Командный проект по курсу "Java для тестировщиков"](https://github.com/VisYar/TeamDiplomChechikVisYar)
+2. [Командный проект по курсу "Java для тестировщиков"](https://github.com/VisYar/TeamDiplomChechikVisYar)
+   Задание командного проекта находится [тут](https://github.com/netology-code/javaqa-team-diplom)<br>
+<p align="center">
+  <img width="100" title="customized by retrieval" src="https://img.shields.io/badge/-IntelliJ_IDEA-6A54DF?&style=for-the-badge">
+  <img width="45" title="customized by retrieval" src="https://img.shields.io/badge/-Java-32CD32?logo=java&style=for-the-badge">
+  <img width="53" title="customized by retrieval" src="https://img.shields.io/badge/-Git-6A54DF?logo=git&style=for-the-badge&logoColor=white">
+  <img width="54" title="customized by retrieval" src="https://img.shields.io/badge/-Maven-32CD32?logo=Rest-Assured&style=for-the-badge&logoColor=white">
+</p>
+В рамках командного проекта:
+   
+- получила навык **командного взаимодействия** во время выполнения рабочих задач
+- написала ** юнит теста** на заготовку кода приложения для трекинга игровой активности
+- оформила [**5 баг-репортов**]() по найденным дефектам
+- **исправила код приложения** по 3 баг-репортам, оформленным другим участником команды
+- провела ревью кода,выполненного другим участником команды
+- настроила систему **CI (GitHub Actions)**
+   
+3. [Курсовая работа по модулю "Ручное тестирование веб-приложений"]()
 
-    В рамках командного проекта: 
-
-     - 
-
-1. [Курсовая работа по модулю "Ручное тестирование веб-приложений"]()
     Задание курсовой работы находится [тут](https://github.com/netology-code/iqa-diplom/blob/main/README.md)<br>
-    В рамках курсовой по ручному тестированию сайта интернет-магазина https://henderson.ru/:
-    - 
- 
+    В рамках курсовой по ручному тестированию сайта интернет-магазина https://henderson.ru/:<br>
 
+- написала [**чек-лист**]() функциональной проверки 
+[личного кабинета зарегистрированного авторизованного пользователя](https://henderson.ru/cabinet/), 
+включая функционал разделов
+- провела **тестирование ТЗ** по процессу восстановления пароля и написала набор из [**тест-кейсов**]()
+- оформила **5 баг-репортов** на дефекты в функционале поиска и отзывов на товар [карточки в багтрекинговой системе Jira]()
+- провела **тестирование верстки** и **изучение структуры POST запросов** при помощи **DevTools**
+  
 <p align="center">
   <a href="https://github.com/VisYar?tab=repositories"><img width="140" alt="All Repositories" title="All Repositories" 
 src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repositories-32CD32?style=for-the-badge&logoColor=white&logo=repo"></a>
