@@ -17,9 +17,14 @@ Telegram: https://t.me/vis_yar
 
 1. [Курсовой проект по модулю «Автоматизация тестирования»](https://github.com/VisYar/CourseProjectQAv3)
 <p align="center">
-  <img width="47" title="customized by dmitrieva" src="https://img.shields.io/badge/-Java-32CD32?logo=java&style=for-the-badge">
+  <img width="95" title="customized by dmitrieva" src="https://img.shields.io/badge/-IntelliJ IDEA-6A54DF?&style=for-the-badge">
+  <img width="44" title="customized by dmitrieva" src="https://img.shields.io/badge/-Java-32CD32?logo=java&style=for-the-badge">
+  <img width="53" title="customized by dmitrieva" src="https://img.shields.io/badge/-Git-6A54DF?logo=git&style=for-the-badge&logoColor=white">
+  <img width="75" title="customized by dmitrieva" src="https://img.shields.io/badge/-docker%20-%230.svg?&style=for-the-badge&logo=docker&logoColor=white">
   <img width="75" title="customized by dmitrieva" src="https://img.shields.io/badge/-Gradle-6A54DF?logo=gradle&style=for-the-badge">
   <img width="74" title="customized by dmitrieva" src="https://img.shields.io/badge/-JUnit'5-32CD32?logo=junit5&style=for-the-badge&logoColor=white">
+  <img width="65" title="customized by dmitrieva" src="https://img.shields.io/badge/-Selenid-6A54DF?&style=for-the-badge">
+  <img width="100" title="customized by dmitrieva" src="https://img.shields.io/badge/-Rest Assured-32CD32?logo=Rest-Assured&style=for-the-badge&logoColor=white">
   <img width="105" title="customized by dmitrieva" src="https://img.shields.io/badge/-Allure Report-6A54DF?&style=for-the-badge">
 </p>
     В рамках курсовой работы:
