@@ -130,4 +130,4 @@ Java](https://github.com/VisYar/VisYar/files/9859325/certificate.autojava.pdf)<b
 
 [![codewars](https://www.codewars.com/users/VisYar/badges/small)](https://www.codewars.com/users/VisYar)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VisYar)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VisYar&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
