@@ -45,19 +45,26 @@ class="src-Landings-landing-ui-kit-components-Icon--root--OQrQH src-Landings-lan
 class="src-Landings-landing-ui-kit-components-Icon--root--OQrQH src-Landings-landing-ui-kit-components-Resume-components-Technology--icon--CLYDE" title="">
 </p> 
 
-## Контакты
-     
-Email: dmitrieva_ta@mail.ru  
-Telegram: https://t.me/vis_yar
+## Контакты 
+
+<p>
+По всем вопросам пишите письма<br>
+Email: dmitrieva_ta@mail.ru
+</p>
+<p align="center">
+
+[![Telegram](https://img.shields.io/badge/Telegram-6A54DF?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vis_yar)
+[![Discord](https://img.shields.io/badge/Discord-%2332CD32.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/986921661892821002/)
+</p>
 
 ## Портфолио
 
 ### Мои проекты
 
-1. [Курсовой проект по модулю «Автоматизация тестирования»](https://github.com/VisYar/CourseProjectQAv3)
+1. [**Курсовой проект по модулю «Автоматизация тестирования»**](https://github.com/VisYar/CourseProjectQAv3)
 <p align="center">
-  <img width="100" title="customized by retrieval" src="https://img.shields.io/badge/-IntelliJ_IDEA-6A54DF?&style=for-the-badge">
-  <img width="45" title="customized by retrieval" src="https://img.shields.io/badge/-Java-32CD32?logo=java&style=for-the-badge">
+  <img width="109" title="customized by retrieval" src="https://img.shields.io/badge/IntelliJIDEA-6A54DF.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
+  <img width="45" title="customized by retrieval" src="https://img.shields.io/badge/java-%2332CD32.svg?style=for-the-badge&logo=java&logoColor=white">
   <img width="53" title="customized by retrieval" src="https://img.shields.io/badge/-Git-6A54DF?logo=git&style=for-the-badge&logoColor=white">
   <img width="76" title="customized by retrieval" src="https://img.shields.io/badge/-docker%20-%230.svg?&style=for-the-badge&logo=docker&logoColor=white">
   <img width="75" title="customized by retrieval" src="https://img.shields.io/badge/-Gradle-6A54DF?logo=gradle&style=for-the-badge">
@@ -78,15 +85,15 @@ Telegram: https://t.me/vis_yar
 - составила [**отчет о проведенном тестировании**](https://github.com/VisYar/CourseProjectQAv3/blob/master/reports/Report.md) с подключенным **Allure**
 - составила [**отчет о проведённой автоматизации тестирования**](https://github.com/VisYar/CourseProjectQAv3/blob/master/reports/Summary.md)
 
-2. [Командный проект по курсу "Java для тестировщиков"](https://github.com/VisYar/TeamDiplomChechikVisYar)
+2. [**Командный проект по курсу "Java для тестировщиков"**](https://github.com/VisYar/TeamDiplomChechikVisYar)<br>
    Задание командного проекта находится [тут](https://github.com/netology-code/javaqa-team-diplom)<br>
 <p align="center">
-  <img width="100" title="customized by retrieval" src="https://img.shields.io/badge/-IntelliJ_IDEA-6A54DF?&style=for-the-badge">
+  <img width="109" title="customized by retrieval" src="https://img.shields.io/badge/IntelliJIDEA-6A54DF.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
   <img width="45" title="customized by retrieval" src="https://img.shields.io/badge/-Java-32CD32?logo=java&style=for-the-badge">
   <img width="53" title="customized by retrieval" src="https://img.shields.io/badge/-Git-6A54DF?logo=git&style=for-the-badge&logoColor=white">
   <img width="54" title="customized by retrieval" src="https://img.shields.io/badge/-Maven-32CD32?logo=Rest-Assured&style=for-the-badge&logoColor=white">
 </p>
-В рамках командного проекта:
+    В рамках командного проекта:
    
 - получила навык **командного взаимодействия** во время выполнения рабочих задач
 - написала ** юнит теста** на заготовку кода приложения для трекинга игровой активности
@@ -95,16 +102,14 @@ Telegram: https://t.me/vis_yar
 - провела ревью кода, выполненного другим участником команды
 - настроила систему **CI (GitHub Actions)**
    
-3. [Курсовая работа по модулю "Ручное тестирование веб-приложений"]()
+3. [**Курсовая работа по модулю "Ручное тестирование веб-приложений"**]()<br>
+  Задание курсовой работы находится [тут](https://github.com/netology-code/iqa-diplom/blob/main/README.md)<br>
+  В рамках курсовой по ручному тестированию сайта интернет-магазина https://henderson.ru/:<br>
 
-    Задание курсовой работы находится [тут](https://github.com/netology-code/iqa-diplom/blob/main/README.md)<br>
-    В рамках курсовой по ручному тестированию сайта интернет-магазина https://henderson.ru/:<br>
-
-- написала [**чек-лист**]() функциональной проверки 
-[личного кабинета зарегистрированного авторизованного пользователя](https://henderson.ru/cabinet/), 
+- написала [**чек-лист**]() функциональной проверки личного кабинета зарегистрированного авторизованного пользователя, 
 включая функционал разделов
 - провела **тестирование ТЗ** по процессу восстановления пароля и написала набор из [**тест-кейсов**]()
-- оформила **5 баг-репортов** на дефекты в функционале поиска и отзывов на товар [карточки в багтрекинговой системе Jira]()
+- оформила **5 баг-репортов** на дефекты в функционале поиска и отзывов на товар [**карточки в багтрекинговой системе Jira**]()
 - провела **тестирование верстки** и **изучение структуры POST запросов** при помощи **DevTools**
   
 <p align="center">
@@ -112,7 +117,7 @@ Telegram: https://t.me/vis_yar
 src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repositories-32CD32?style=for-the-badge&logoColor=white&logo=repo"></a>
 </p>
 
-### Сертификаты
+## Сертификаты
 
 [Ручное тестирование веб-приложений](https://github.com/VisYar/VisYar/files/9859268/-.pdf)<br>
 [Java для тестировщиков](https://github.com/VisYar/VisYar/files/9859297/certificate.Java.pdf)<br>
@@ -122,3 +127,7 @@ Java](https://github.com/VisYar/VisYar/files/9859325/certificate.autojava.pdf)<b
 [Основы вёрстки сайта](https://github.com/VisYar/VisYar/files/9859345/default.pdf)<br>
 [Git — система контроля версий](https://github.com/VisYar/VisYar/files/9859354/certificate.Git.pdf)<br>
 [Основы языка программирования Python](https://github.com/VisYar/VisYar/files/9859401/certificate.python.pdf)<br>
+
+[![codewars](https://www.codewars.com/users/VisYar/badges/small)](https://www.codewars.com/users/VisYar)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?VisYar=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
