@@ -51,10 +51,10 @@ class="src-Landings-landing-ui-kit-components-Icon--root--OQrQH src-Landings-lan
 По всем вопросам пишите письма<br>
 Email: dmitrieva_ta@mail.ru
 </p>
-<p align="center">
+<p>
 
-[![Telegram](https://img.shields.io/badge/Telegram-6A54DF?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vis_yar)
-[![Discord](https://img.shields.io/badge/Discord-%2332CD32.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/986921661892821002/)
+[<img title="Telegram" alt=" | Telegram" width="95px" src="https://img.shields.io/badge/Telegram-6A54DF?style=for-the-badge&logo=telegram&logoColor=white">](https://t.me/vis_yar)
+[<img title="Telegram" alt=" | Telegram" width="87px" src="https://img.shields.io/badge/Discord-%2332CD32.svg?style=for-the-badge&logo=discord&logoColor=white">](https://discordapp.com/users/986921661892821002/)
 </p>
 
 ## Портфолио
@@ -103,11 +103,10 @@ Email: dmitrieva_ta@mail.ru
 - настроила систему **CI (GitHub Actions)**
    
 3. [**Курсовая работа по модулю "Ручное тестирование веб-приложений"**]()<br>
-  Задание курсовой работы находится [тут](https://github.com/netology-code/iqa-diplom/blob/main/README.md)<br>
-  В рамках курсовой по ручному тестированию сайта интернет-магазина https://henderson.ru/:<br>
+  Задание курсовой работы находится [тут](https://github.com/netology-code/iqa-diplom/blob/main/README.md) <br>
+  В рамках курсовой по ручному тестированию сайта интернет-магазина https://henderson.ru/: <br>
 
-- написала [**чек-лист**]() функциональной проверки личного кабинета зарегистрированного авторизованного пользователя, 
-включая функционал разделов
+- написала [**чек-лист**]() функциональной проверки личного кабинета пользователя, включая функционал разделов
 - провела **тестирование ТЗ** по процессу восстановления пароля и написала набор из [**тест-кейсов**]()
 - оформила **5 баг-репортов** на дефекты в функционале поиска и отзывов на товар [**карточки в багтрекинговой системе Jira**]()
 - провела **тестирование верстки** и **изучение структуры POST запросов** при помощи **DevTools**
@@ -128,6 +127,6 @@ Java](https://github.com/VisYar/VisYar/files/9859325/certificate.autojava.pdf)<b
 [Git — система контроля версий](https://github.com/VisYar/VisYar/files/9859354/certificate.Git.pdf)<br>
 [Основы языка программирования Python](https://github.com/VisYar/VisYar/files/9859401/certificate.python.pdf)<br>
 
-[![codewars](https://www.codewars.com/users/VisYar/badges/small)](https://www.codewars.com/users/VisYar)
+[![codewars](https://www.codewars.com/users/VisYar/badges/small/)](https://www.codewars.com/users/VisYar)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VisYar&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
