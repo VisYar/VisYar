@@ -92,6 +92,7 @@ Email: dmitrieva_ta@mail.ru
   <img width="45" title="customized by retrieval" src="https://img.shields.io/badge/-Java-32CD32?logo=java&style=for-the-badge">
   <img width="53" title="customized by retrieval" src="https://img.shields.io/badge/-Git-6A54DF?logo=git&style=for-the-badge&logoColor=white">
   <img width="54" title="customized by retrieval" src="https://img.shields.io/badge/-Maven-32CD32?logo=Rest-Assured&style=for-the-badge&logoColor=white">
+<img width="109" title="customized by retrieval" src="https://img.shields.io/badge/GitHub Actions-6A54DF.svg?style=for-the-badge&logo=&logoColor=white">
 </p>
     В рамках командного проекта:
    
@@ -104,6 +105,11 @@ Email: dmitrieva_ta@mail.ru
    
 3. [**Курсовая работа по модулю "Ручное тестирование веб-приложений"**]()<br>
   Задание курсовой работы находится [тут](https://github.com/netology-code/iqa-diplom/blob/main/README.md) <br>
+<p align="center">
+   <img width="100" title="customized by retrieval" src="https://img.shields.io/badge/-Google_Drive-6A54DF?logo=&style=for-the-badge&logoColor=white">
+   <img width="46" title="customized by retrieval" src="https://img.shields.io/badge/-Jira-32CD32?logo=java&style=for-the-badge">
+   <img width="77" title="customized by retrieval" src="https://img.shields.io/badge/-DevTools-6A54DF?logo=&style=for-the-badge&logoColor=white">
+</p>
   В рамках курсовой по ручному тестированию сайта интернет-магазина https://henderson.ru/: <br>
 
 - написала [**чек-лист**]() функциональной проверки личного кабинета пользователя, включая функционал разделов
