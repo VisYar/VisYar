@@ -48,8 +48,7 @@ class="src-Landings-landing-ui-kit-components-Icon--root--OQrQH src-Landings-lan
 ## Контакты 
 
 <p>
-По всем вопросам пишите письма<br>
-Email: dmitrieva_ta@mail.ru
+[Email:](dmitrieva_ta@mail.ru)
 </p>
 <p>
 
