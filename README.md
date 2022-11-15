@@ -48,29 +48,25 @@ class="src-Landings-landing-ui-kit-components-Icon--root--OQrQH src-Landings-lan
 ## Контакты 
 
 <p>
-Email:dmitrieva_ta@mail.ru
-</p>
-<p>
 
-[<img title="Telegram" alt=" | Telegram" width="95px" src="https://img.shields.io/badge/Telegram-6A54DF?style=for-the-badge&logo=telegram&logoColor=white">](https://t.me/vis_yar)
-[<img title="Telegram" alt=" | Discord" width="87px" src="https://img.shields.io/badge/Discord-%2332CD32.svg?style=for-the-badge&logo=discord&logoColor=white">](https://discordapp.com/users/986921661892821002/)
+[<img title="Email" alt=" | Email" width="50px" src="https://img.shields.io/badge/Email-32CD32?style=for-the-badge&logoColor=white">](mailto:dmitrieva_ta@mail.ru)
+[<img title="Telegram" alt=" | Telegram" width="85px" src="https://img.shields.io/badge/Telegram-6A54DF?style=for-the-badge&logo=telegram&logoColor=white">](https://t.me/vis_yar)
+[<img title="Discord" alt=" | Discord" width="78px" src="https://img.shields.io/badge/Discord-%2332CD32.svg?style=for-the-badge&logo=discord&logoColor=white">](https://discordapp.com/users/986921661892821002/)
 </p>
 
 ## Портфолио
-
 ### Мои проекты
-
 1. [**Курсовой проект по модулю «Автоматизация тестирования»**](https://github.com/VisYar/CourseProjectQAv3)
 <p align="center">
-  <img width="109" title="customized by retrieval" src="https://img.shields.io/badge/IntelliJIDEA-6A54DF.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
-  <img width="45" title="customized by retrieval" src="https://img.shields.io/badge/java-%2332CD32.svg?style=for-the-badge&logo=java&logoColor=white">
-  <img width="53" title="customized by retrieval" src="https://img.shields.io/badge/-Git-6A54DF?logo=git&style=for-the-badge&logoColor=white">
-  <img width="76" title="customized by retrieval" src="https://img.shields.io/badge/-docker%20-%230.svg?&style=for-the-badge&logo=docker&logoColor=white">
-  <img width="75" title="customized by retrieval" src="https://img.shields.io/badge/-Gradle-6A54DF?logo=gradle&style=for-the-badge">
-  <img width="75" title="customized by retrieval" src="https://img.shields.io/badge/-JUnit_5-32CD32?logo=junit5&style=for-the-badge&logoColor=white">
-  <img width="65" title="customized by retrieval" src="https://img.shields.io/badge/-Selenid-6A54DF?logo=Selenid&style=for-the-badge">
-  <img width="100" title="customized by retrieval" src="https://img.shields.io/badge/-Rest_Assured-32CD32?logo=Rest-Assured&style=for-the-badge&logoColor=white">
-  <img width="105" title="customized by retrieval" src="https://img.shields.io/badge/-Allure_Report-6A54DF?&style=for-the-badge">
+  <img width="109" title="Intellij Idea" src="https://img.shields.io/badge/IntelliJIDEA-6A54DF.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
+  <img width="45" title="Java" src="https://img.shields.io/badge/java-%2332CD32.svg?style=for-the-badge&logo=java&logoColor=white">
+  <img width="53" title="Git" src="https://img.shields.io/badge/-Git-6A54DF?logo=git&style=for-the-badge&logoColor=white">
+  <img width="76" title="Docker" src="https://img.shields.io/badge/-docker%20-%230.svg?&style=for-the-badge&logo=docker&logoColor=white">
+  <img width="75" title="Gradle" src="https://img.shields.io/badge/-Gradle-6A54DF?logo=gradle&style=for-the-badge">
+  <img width="75" title="JUnit 5" src="https://img.shields.io/badge/-JUnit_5-32CD32?logo=junit5&style=for-the-badge&logoColor=white">
+  <img width="65" title="Selenid" src="https://img.shields.io/badge/-Selenid-6A54DF?logo=Selenid&style=for-the-badge">
+  <img width="100" title="Rest Assured" src="https://img.shields.io/badge/-Rest_Assured-32CD32?logo=Rest-Assured&style=for-the-badge&logoColor=white">
+  <img width="105" title="Allure Report" src="https://img.shields.io/badge/-Allure_Report-6A54DF?&style=for-the-badge">
 </p>
     В рамках курсовой работы:
 
@@ -87,11 +83,11 @@ Email:dmitrieva_ta@mail.ru
 2. [**Командный проект по курсу "Java для тестировщиков"**](https://github.com/VisYar/TeamDiplomChechikVisYar)<br>
    Задание командного проекта находится [тут](https://github.com/netology-code/javaqa-team-diplom)<br>
 <p align="center">
-  <img width="109" title="customized by retrieval" src="https://img.shields.io/badge/IntelliJIDEA-6A54DF.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
-  <img width="45" title="customized by retrieval" src="https://img.shields.io/badge/-Java-32CD32?logo=java&style=for-the-badge">
-  <img width="53" title="customized by retrieval" src="https://img.shields.io/badge/-Git-6A54DF?logo=git&style=for-the-badge&logoColor=white">
-  <img width="54" title="customized by retrieval" src="https://img.shields.io/badge/-Maven-32CD32?logo=Rest-Assured&style=for-the-badge&logoColor=white">
-<img width="109" title="customized by retrieval" src="https://img.shields.io/badge/GitHub Actions-6A54DF.svg?style=for-the-badge&logo=&logoColor=white">
+  <img width="109" title="Intellij Idea" src="https://img.shields.io/badge/IntelliJIDEA-6A54DF.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
+  <img width="45" title="Java" src="https://img.shields.io/badge/-Java-32CD32?logo=java&style=for-the-badge">
+  <img width="53" title="Git" src="https://img.shields.io/badge/-Git-6A54DF?logo=git&style=for-the-badge&logoColor=white">
+  <img width="54" title="Maven" src="https://img.shields.io/badge/-Maven-32CD32?logo=Rest-Assured&style=for-the-badge&logoColor=white">
+<img width="109" title="GitHub Actions" src="https://img.shields.io/badge/GitHub Actions-6A54DF.svg?style=for-the-badge&logo=&logoColor=white">
 </p>
     В рамках командного проекта:
    
@@ -105,14 +101,14 @@ Email:dmitrieva_ta@mail.ru
 3. [**Курсовая работа по модулю "Ручное тестирование веб-приложений"**]()<br>
   Задание курсовой работы находится [тут](https://github.com/netology-code/iqa-diplom/blob/main/README.md) <br>
 <p align="center">
-   <img width="100" title="customized by retrieval" src="https://img.shields.io/badge/-Google_Drive-6A54DF?logo=&style=for-the-badge&logoColor=white">
-   <img width="46" title="customized by retrieval" src="https://img.shields.io/badge/-Jira-32CD32?logo=java&style=for-the-badge">
-   <img width="77" title="customized by retrieval" src="https://img.shields.io/badge/-DevTools-6A54DF?logo=&style=for-the-badge&logoColor=white">
+   <img width="100" title="Google_Drive" src="https://img.shields.io/badge/-Google_Drive-6A54DF?logo=&style=for-the-badge&logoColor=white">
+   <img width="46" title="Jira" src="https://img.shields.io/badge/-Jira-32CD32?logo=java&style=for-the-badge">
+   <img width="77" title="DevTools" src="https://img.shields.io/badge/-DevTools-6A54DF?logo=&style=for-the-badge&logoColor=white">
 </p>
   В рамках курсовой по ручному тестированию сайта интернет-магазина https://henderson.ru/: <br>
 
-- написала [**чек-лист**]() функциональной проверки личного кабинета пользователя, включая функционал разделов
-- провела **тестирование ТЗ** по процессу восстановления пароля и написала набор из [**тест-кейсов**]()
+- написала [**чек-лист**](https://docs.google.com/spreadsheets/d/1fVctlIvn3Y_nF43Yz1QbibKp38DRH0pK911KfWMxIN8/edit?usp=sharing) функциональной проверки личного кабинета пользователя, включая функционал разделов
+- провела **тестирование ТЗ** по процессу восстановления пароля и написала набор из [**36 тест-кейсов**](https://docs.google.com/spreadsheets/d/1IYdrEYPvcBtIykTapIPARmtyHv4gjsrHd5Ul6YOfqAc/edit?usp=sharing)
 - оформила **5 баг-репортов** на дефекты в функционале поиска и отзывов на товар [**карточки в багтрекинговой системе Jira**]()
 - провела **тестирование верстки** и **изучение структуры POST запросов** при помощи **DevTools**
   
