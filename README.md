@@ -119,13 +119,13 @@ src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repositories-32CD32?s
 
 ## Сертификаты
 
-[Ручное тестирование веб-приложений](pdf/certificate manualtect.pdf)<br>
-[Java для тестировщиков](pdf/certificate Java.pdf)<br>
+[Ручное тестирование веб-приложений](pdf/certificateManualtect.pdf)<br>
+[Java для тестировщиков](pdf/certificateJava.pdf)<br>
 [Автоматизированное
 тестирование веб-приложений на
-Java](pdf/certificate autojava.pdf)<br>
-[Основы вёрстки сайта](pdf/certificate verstka.pdf)<br>
-[Git — система контроля версий](pdf/certificate Git.pdf)<br>
-[Основы языка программирования Python](pdf/certificate python.pdf)<br>
+Java](pdf/certificateAutojava.pdf)<br>
+[Основы вёрстки сайта](pdf/certificateVerstka.pdf)<br>
+[Git — система контроля версий](pdf/certificateGit.pdf)<br>
+[Основы языка программирования Python](pdf/certificatePython.pdf)<br>
 
 [![codewars](https://www.codewars.com/users/VisYar/badges/small/)](https://www.codewars.com/users/VisYar)
