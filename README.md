@@ -119,15 +119,13 @@ src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repositories-32CD32?s
 
 ## Сертификаты
 
-[Ручное тестирование веб-приложений](https://github.com/VisYar/VisYar/files/9859268/-.pdf)<br>
-[Java для тестировщиков](https://github.com/VisYar/VisYar/files/9859297/certificate.Java.pdf)<br>
+[Ручное тестирование веб-приложений](pdf/certificate manualtect.pdf)<br>
+[Java для тестировщиков](pdf/certificate Java.pdf)<br>
 [Автоматизированное
 тестирование веб-приложений на
-Java](https://github.com/VisYar/VisYar/files/9859325/certificate.autojava.pdf)<br>
-[Основы вёрстки сайта](https://github.com/VisYar/VisYar/files/9859345/default.pdf)<br>
-[Git — система контроля версий](https://github.com/VisYar/VisYar/files/9859354/certificate.Git.pdf)<br>
-[Основы языка программирования Python](https://github.com/VisYar/VisYar/files/9859401/certificate.python.pdf)<br>
+Java](pdf/certificate autojava.pdf)<br>
+[Основы вёрстки сайта](pdf/certificate verstka.pdf)<br>
+[Git — система контроля версий](pdf/certificate Git.pdf)<br>
+[Основы языка программирования Python](pdf/certificate python.pdf)<br>
 
 [![codewars](https://www.codewars.com/users/VisYar/badges/small/)](https://www.codewars.com/users/VisYar)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VisYar&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
