@@ -1,5 +1,5 @@
 <p align="center">
-  <img title="|Customized by Tatyana Dmitrieva|"src="https://readme-typing-svg.herokuapp.com?color=32CD32&font=Knewave&size=40&center=true&vCenter=true&lines=Dmitrieva+Tatyana;QA+engineer">
+  <img title="|Customized by Tatyana Dmitrieva|"src="https://readme-typing-svg.herokuapp.com?color=32CD32&font=Knewave&size=40&center=true&vCenter=true&lines=Wellcome+to;my+GitHub">
 </p>
 
 ## Обо мне
@@ -48,8 +48,7 @@ class="src-Landings-landing-ui-kit-components-Icon--root--OQrQH src-Landings-lan
 ## Контакты 
 
 <p>
-По всем вопросам пишите письма<br>
-Email: dmitrieva_ta@mail.ru
+Email:dmitrieva_ta@mail.ru
 </p>
 <p>
 
