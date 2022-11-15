@@ -10,39 +10,39 @@
 </p> 
 <p align="center">
 <img width="40" src="https://u.netology.ru/backend/uploads/page_assets/images/file/46328/tools_JIRA_color.png" 
-class="src-Landings-landing-ui-kit-components-Icon--root--OQrQH src-Landings-landing-ui-kit-components-Resume-components-Technology--icon--CLYDE" title="">
+class="src-Landings-landing-ui-kit-components-Icon--root--OQrQH src-Landings-landing-ui-kit-components-Resume-components-Technology--icon--CLYDE" title="Jira" alt=" | Jira">
 <img width="40" src="https://u.netology.ru/backend/uploads/page_assets/images/file/46323/tools_IntelliJ_IDEA_color.png" 
-class="src-Landings-landing-ui-kit-components-Icon--root--OQrQH src-Landings-landing-ui-kit-components-Resume-components-Technology--icon--CLYDE" title="">
+class="src-Landings-landing-ui-kit-components-Icon--root--OQrQH src-Landings-landing-ui-kit-components-Resume-components-Technology--icon--CLYDE" title="" alt=" | Jira">
 <img width="40" src="https://u.netology.ru/backend/uploads/page_assets/images/file/46300/tools_GitHub_color.png" 
-class="src-Landings-landing-ui-kit-components-Icon--root--OQrQH src-Landings-landing-ui-kit-components-Resume-components-Technology--icon--CLYDE" title="">
+class="src-Landings-landing-ui-kit-components-Icon--root--OQrQH src-Landings-landing-ui-kit-components-Resume-components-Technology--icon--CLYDE" title="" alt=" | Jira">
 <img width="40" src="https://u.netology.ru/backend/uploads/page_assets/images/file/46313/tools_GIT_color.png" 
-class="src-Landings-landing-ui-kit-components-Icon--root--OQrQH src-Landings-landing-ui-kit-components-Resume-components-Technology--icon--CLYDE" title="">
+class="src-Landings-landing-ui-kit-components-Icon--root--OQrQH src-Landings-landing-ui-kit-components-Resume-components-Technology--icon--CLYDE" title="" alt=" | Jira">
 <img width="40" src="https://u.netology.ru/backend/uploads/page_assets/images/file/46322/tools_Java_color.png" 
-class="src-Landings-landing-ui-kit-components-Icon--root--OQrQH src-Landings-landing-ui-kit-components-Resume-components-Technology--icon--CLYDE" title="">
+class="src-Landings-landing-ui-kit-components-Icon--root--OQrQH src-Landings-landing-ui-kit-components-Resume-components-Technology--icon--CLYDE" title="" alt=" | Jira">
 <img width="40" src="https://u.netology.ru/backend/uploads/page_assets/images/file/46334/tools_Gradle_color.png" 
-class="src-Landings-landing-ui-kit-components-Icon--root--OQrQH src-Landings-landing-ui-kit-components-Resume-components-Technology--icon--CLYDE" title="">
+class="src-Landings-landing-ui-kit-components-Icon--root--OQrQH src-Landings-landing-ui-kit-components-Resume-components-Technology--icon--CLYDE" title="" alt=" | Jira">
 <img width="40" src="https://u.netology.ru/backend/uploads/page_assets/images/file/46326/tools_Selenium_color.png" 
-class="src-Landings-landing-ui-kit-components-Icon--root--OQrQH src-Landings-landing-ui-kit-components-Resume-components-Technology--icon--CLYDE" title="">
+class="src-Landings-landing-ui-kit-components-Icon--root--OQrQH src-Landings-landing-ui-kit-components-Resume-components-Technology--icon--CLYDE" title="" alt=" | Jira">
 <img width="40" src="https://u.netology.ru/backend/uploads/page_assets/images/file/46280/tools_SQL_color.png" 
-class="src-Landings-landing-ui-kit-components-Icon--root--OQrQH src-Landings-landing-ui-kit-components-Resume-components-Technology--icon--CLYDE" title="">
+class="src-Landings-landing-ui-kit-components-Icon--root--OQrQH src-Landings-landing-ui-kit-components-Resume-components-Technology--icon--CLYDE" title="" alt=" | Jira">
 <img width="40" src="https://u.netology.ru/backend/uploads/page_assets/images/file/46327/tools_JUnit_color.png" 
-class="src-Landings-landing-ui-kit-components-Icon--root--OQrQH src-Landings-landing-ui-kit-components-Resume-components-Technology--icon--CLYDE" title="">
+class="src-Landings-landing-ui-kit-components-Icon--root--OQrQH src-Landings-landing-ui-kit-components-Resume-components-Technology--icon--CLYDE" title="" alt=" | Jira">
 <img width="40" src="https://u.netology.ru/backend/uploads/page_assets/images/file/46306/tools_Docker_color.png" 
-class="src-Landings-landing-ui-kit-components-Icon--root--OQrQH src-Landings-landing-ui-kit-components-Resume-components-Technology--icon--CLYDE" title="">
+class="src-Landings-landing-ui-kit-components-Icon--root--OQrQH src-Landings-landing-ui-kit-components-Resume-components-Technology--icon--CLYDE" title="" alt=" | Jira">
 <img width="40" src="https://u.netology.ru/backend/uploads/page_assets/images/file/46324/tools_Postman_color.png" 
-class="src-Landings-landing-ui-kit-components-Icon--root--OQrQH src-Landings-landing-ui-kit-components-Resume-components-Technology--icon--CLYDE" title="">
+class="src-Landings-landing-ui-kit-components-Icon--root--OQrQH src-Landings-landing-ui-kit-components-Resume-components-Technology--icon--CLYDE" title="" alt=" | Jira">
 <img width="40" src="https://u.netology.ru/backend/uploads/page_assets/images/file/46331/tools_Jenkins_color.png" 
-class="src-Landings-landing-ui-kit-components-Icon--root--OQrQH src-Landings-landing-ui-kit-components-Resume-components-Technology--icon--CLYDE" title="">
+class="src-Landings-landing-ui-kit-components-Icon--root--OQrQH src-Landings-landing-ui-kit-components-Resume-components-Technology--icon--CLYDE" title="" alt=" | Jira">
 <img width="40" src="https://u.netology.ru/backend/uploads/page_assets/images/file/46329/tools_Linux_color.png" 
-class="src-Landings-landing-ui-kit-components-Icon--root--OQrQH src-Landings-landing-ui-kit-components-Resume-components-Technology--icon--CLYDE" title="">
+class="src-Landings-landing-ui-kit-components-Icon--root--OQrQH src-Landings-landing-ui-kit-components-Resume-components-Technology--icon--CLYDE" title="" alt=" | Jira">
 <img width="40" src="https://u.netology.ru/backend/uploads/page_assets/images/file/46332/tools_Android_Studio_color.png" 
-class="src-Landings-landing-ui-kit-components-Icon--root--OQrQH src-Landings-landing-ui-kit-components-Resume-components-Technology--icon--CLYDE" title="">
+class="src-Landings-landing-ui-kit-components-Icon--root--OQrQH src-Landings-landing-ui-kit-components-Resume-components-Technology--icon--CLYDE" title="" alt=" | Jira">
 <img width="40" src="https://u.netology.ru/backend/uploads/page_assets/images/file/46330/tools_Espresso_color.png" 
-class="src-Landings-landing-ui-kit-components-Icon--root--OQrQH src-Landings-landing-ui-kit-components-Resume-components-Technology--icon--CLYDE" title="">
+class="src-Landings-landing-ui-kit-components-Icon--root--OQrQH src-Landings-landing-ui-kit-components-Resume-components-Technology--icon--CLYDE" title="" alt=" | Jira">
 <img width="40" src="https://u.netology.ru/backend/uploads/page_assets/images/file/46289/tools_JavaScript_color.png" 
-class="src-Landings-landing-ui-kit-components-Icon--root--OQrQH src-Landings-landing-ui-kit-components-Resume-components-Technology--icon--CLYDE" title="">
+class="src-Landings-landing-ui-kit-components-Icon--root--OQrQH src-Landings-landing-ui-kit-components-Resume-components-Technology--icon--CLYDE" title="" alt=" | Jira">
 <img width="40" src="https://u.netology.ru/backend/uploads/page_assets/images/file/46277/tools_Python_color.png" 
-class="src-Landings-landing-ui-kit-components-Icon--root--OQrQH src-Landings-landing-ui-kit-components-Resume-components-Technology--icon--CLYDE" title="">
+class="src-Landings-landing-ui-kit-components-Icon--root--OQrQH src-Landings-landing-ui-kit-components-Resume-components-Technology--icon--CLYDE" title="" alt=" | Jira">
 </p> 
 
 ## Контакты 
