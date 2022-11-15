@@ -54,7 +54,7 @@ Email: dmitrieva_ta@mail.ru
 <p>
 
 [<img title="Telegram" alt=" | Telegram" width="95px" src="https://img.shields.io/badge/Telegram-6A54DF?style=for-the-badge&logo=telegram&logoColor=white">](https://t.me/vis_yar)
-[<img title="Telegram" alt=" | Telegram" width="87px" src="https://img.shields.io/badge/Discord-%2332CD32.svg?style=for-the-badge&logo=discord&logoColor=white">](https://discordapp.com/users/986921661892821002/)
+[<img title="Telegram" alt=" | Discord" width="87px" src="https://img.shields.io/badge/Discord-%2332CD32.svg?style=for-the-badge&logo=discord&logoColor=white">](https://discordapp.com/users/986921661892821002/)
 </p>
 
 ## Портфолио
