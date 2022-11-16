@@ -5,15 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8a3b8435-b879-4069-89ba-3562f19fe90a" name="Changes" comment="Changed README.md">
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pdf/B1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pdf/B2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pdf/B3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pdf/B4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pdf/B5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pdf/B6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />

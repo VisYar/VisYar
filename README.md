@@ -107,11 +107,10 @@ class="src-Landings-landing-ui-kit-components-Icon--root--OQrQH src-Landings-lan
 </p>
   В рамках курсовой по ручному тестированию сайта интернет-магазина https://henderson.ru/: <br>
 
-- написала [**чек-лист**](https://docs.google.com/spreadsheets/d/1fVctlIvn3Y_nF43Yz1QbibKp38DRH0pK911KfWMxIN8/edit?usp=sharing) функциональной проверки личного кабинета пользователя, включая функционал разделов
-- провела **тестирование ТЗ** по процессу восстановления пароля и написала набор из [**36 тест-кейсов**](https://docs.google.com/spreadsheets/d/1IYdrEYPvcBtIykTapIPARmtyHv4gjsrHd5Ul6YOfqAc/edit?usp=sharing)
-- оформила **6 баг-репортов** [**тут**](pdf/B1.pdf), [**тут**](pdf/B2.pdf), [**тут**](pdf/B3.pdf), [**тут**](pdf/B4.pdf), [**тут**](pdf/B5.pdf), [**тут**](pdf/B6.pdf), 
-на дефекты в функционале поиска и отзывов на товар [файл Excel*](https://docs.google.com/spreadsheets/d/1gy9c4pwkHn61Du6dSgnEBPahbgjPGkovGISphLvA_fw/edit?usp=sharing)
-[**тут**](pdf/B1.pdf), 
+- написала [чек-лист](https://docs.google.com/spreadsheets/d/1fVctlIvn3Y_nF43Yz1QbibKp38DRH0pK911KfWMxIN8/edit?usp=sharing) функциональной проверки личного кабинета пользователя, включая функционал разделов
+- провела **тестирование ТЗ** по процессу восстановления пароля и написала набор из [36 тест-кейсов](https://docs.google.com/spreadsheets/d/1IYdrEYPvcBtIykTapIPARmtyHv4gjsrHd5Ul6YOfqAc/edit?usp=sharing)
+- оформила **6 баг-репортов** [тут](pdf/B1.pdf), [тут](pdf/B2.pdf), [тут](pdf/B3.pdf), [тут](pdf/B4.pdf), [тут](pdf/B5.pdf), [тут](pdf/B6.pdf), 
+на дефекты в функционале поиска и отзывов на товар [файл Excel](https://docs.google.com/spreadsheets/d/1gy9c4pwkHn61Du6dSgnEBPahbgjPGkovGISphLvA_fw/edit?usp=share_link)
 - провела **тестирование верстки** и **изучение структуры POST запросов** при помощи **DevTools**
   
 <p align="center">
