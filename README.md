@@ -71,14 +71,14 @@ class="src-Landings-landing-ui-kit-components-Icon--root--OQrQH src-Landings-lan
     В рамках курсовой работы:
 
 - провела исследовательское тестирование функционала покупки тура веб-сервиса "Путешествие дня"
-- составила [план по автоматизации](https://github.com/VisYar/CourseProjectQAv3/blob/master/reports/Plan.md) тестирования (API и UI)
+- составила [**план по автоматизации**](https://github.com/VisYar/CourseProjectQAv3/blob/master/reports/Plan.md) тестирования (API и UI)
 - написала тестовый фреймворк для управления данными и проверки состояния БД (`Faker`, `DBUtils`)
 - настроила систему докеризации приложения с поддержкой двух СУБД (`MySQL` и `PostgreSQL`)
 - автоматизировала  тестовые сценарии (API и  UI), используя паттерн `Page Object` и фреймворки `Selenide`, `REST Assured`
 - подключила и настроила `систему CI` так, чтобы тесты запускались с подключением `SUT` к обеим СУБД поочередно
-- оформила [19 issue](https://github.com/VisYar/CourseProjectQAv3/issues) по найденным дефектам
-- составила [отчет о проведенном тестировании](https://github.com/VisYar/CourseProjectQAv3/blob/master/reports/Report.md) с подключенным **Allure**
-- составила [отчет о проведённой автоматизации тестирования](https://github.com/VisYar/CourseProjectQAv3/blob/master/reports/Summary.md)
+- оформила [**19 issue**](https://github.com/VisYar/CourseProjectQAv3/issues) по найденным дефектам
+- составила [**отчет о проведенном тестировании**](https://github.com/VisYar/CourseProjectQAv3/blob/master/reports/Report.md) с подключенным `Allure`
+- составила [**отчет о проведённой автоматизации тестирования**](https://github.com/VisYar/CourseProjectQAv3/blob/master/reports/Summary.md)
 
 2. [**Командный проект по курсу "Java для тестировщиков"**](https://github.com/VisYar/TeamDiplomChechikVisYar)<br>
    Задание командного проекта находится [тут](https://github.com/netology-code/javaqa-team-diplom)<br>
@@ -92,8 +92,8 @@ class="src-Landings-landing-ui-kit-components-Icon--root--OQrQH src-Landings-lan
     В рамках командного проекта:
    
 - получила навык **командного взаимодействия** во время выполнения рабочих задач
-- написала [12 юнит тестов](https://github.com/ChechikJan/TeamDiplomChechikVisYar/blob/master/src/test/java/ru/netology/GameStoreTest.java) на заготовку кода приложения для трекинга игровой активности
-- оформила [5 баг-репортов](https://github.com/ChechikJan/TeamDiplomChechikVisYar/issues?q=is%3Aissue+is%3Aclosed) по найденным дефектам
+- написала [**12 юнит тестов**](https://github.com/ChechikJan/TeamDiplomChechikVisYar/blob/master/src/test/java/ru/netology/GameStoreTest.java) на заготовку кода приложения для трекинга игровой активности
+- оформила [**5 баг-репортов**](https://github.com/ChechikJan/TeamDiplomChechikVisYar/issues?q=is%3Aissue+is%3Aclosed) по найденным дефектам
 - исправила код приложения по 3 баг-репортам, оформленным другим участником команды
 - провела ревью кода, выполненного другим участником команды
 - настроили систему `CI (GitHub Actions)` с напарником по команде 
@@ -107,8 +107,8 @@ class="src-Landings-landing-ui-kit-components-Icon--root--OQrQH src-Landings-lan
 </p>
   В рамках курсовой по ручному тестированию сайта интернет-магазина https://henderson.ru/: <br>
 
-- написала [чек-лист](https://docs.google.com/spreadsheets/d/1fVctlIvn3Y_nF43Yz1QbibKp38DRH0pK911KfWMxIN8/edit?usp=sharing) функциональной проверки личного кабинета пользователя, включая функционал разделов
-- провела тестирование ТЗ по процессу восстановления пароля и написала набор из [36 тест-кейсов](https://docs.google.com/spreadsheets/d/1IYdrEYPvcBtIykTapIPARmtyHv4gjsrHd5Ul6YOfqAc/edit?usp=sharing)
+- написала [**чек-лист**](https://docs.google.com/spreadsheets/d/1fVctlIvn3Y_nF43Yz1QbibKp38DRH0pK911KfWMxIN8/edit?usp=sharing) функциональной проверки личного кабинета пользователя, включая функционал разделов
+- провела тестирование ТЗ по процессу восстановления пароля и написала набор из [**36 тест-кейсов**](https://docs.google.com/spreadsheets/d/1IYdrEYPvcBtIykTapIPARmtyHv4gjsrHd5Ul6YOfqAc/edit?usp=sharing)
 - оформила 6 баг-репортов  в `Jira` [тут](pdf/B1.pdf), [тут](pdf/B2.pdf), [тут](pdf/B3.pdf), [тут](pdf/B4.pdf), [тут](pdf/B5.pdf), [тут](pdf/B6.pdf), 
 на дефекты в функционале поиска и отзывов на товар [файл Excel](https://docs.google.com/spreadsheets/d/1gy9c4pwkHn61Du6dSgnEBPahbgjPGkovGISphLvA_fw/edit?usp=share_link)
 - провела тестирование верстки и изучение структуры POST запросов при помощи `DevTools`
