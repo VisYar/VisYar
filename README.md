@@ -6,7 +6,7 @@
 
 Я, Дмитриева Татьяна, студент "Нетология" [курс "Инженер по тестированию: с нуля до middle"](https://netology.ru/programs/qa-middle#/)
 <p align="center">
-Инструменты, которые я осваиваю:
+Инструменты
 </p> 
 <p align="center">
 <img width="40" src="https://u.netology.ru/backend/uploads/page_assets/images/file/46328/tools_JIRA_color.png" 
