@@ -4,7 +4,7 @@
 
 ## Обо мне
 
-Я, Дмитриева Татьяна, студент "Нетология" [курс "Инженер по тестированию: с нуля до middle"](https://netology.ru/programs/qa-middle#/)
+Я, Дмитриева Татьяна, студент "Нетология" [**курс "Инженер по тестированию: с нуля до middle"**](https://netology.ru/programs/qa-middle#/)
 <p align="center">
 Инструменты, которые я осваиваю:
 </p> 
@@ -129,4 +129,4 @@ Java](pdf/certificateAutojava.pdf)<br>
 [Git — система контроля версий](pdf/certificateGit.pdf)<br>
 [Основы языка программирования Python](pdf/certificatePython.pdf)<br>
 
-[![codewars](https://www.codewars.com/users/VisYar/badges/small/)](https://www.codewars.com/users/VisYar)
+[![codewars](https://www.codewars.com/users/VisYar/badges/small/)](https://www.codewars.com/users/rsschool_VisYar)
