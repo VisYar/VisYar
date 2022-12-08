@@ -129,4 +129,4 @@ Java](pdf/certificateAutojava.pdf)<br>
 [Git — система контроля версий](pdf/certificateGit.pdf)<br>
 [Основы языка программирования Python](pdf/certificatePython.pdf)<br>
 
-[![codewars](https://www.codewars.com/users/VisYar/badges/small/)](https://www.codewars.com/users/rsschool_VisYar)
+[![codewars](https://www.codewars.com/users/rsschool_VisYar/badges/small/)](https://www.codewars.com/users/rsschool_VisYar)
