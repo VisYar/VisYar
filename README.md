@@ -127,9 +127,9 @@
 <details>
   <summary>Тестирование мобильных приложений (ручное и автоматизированное)</summary>
 
-* Составила [чек-лист](https://docs.google.com/spreadsheets/d/1jKyZdeLLSySUX-1VODJOtKvpCNmJLHrE/edit#gid=1590602191) 
+* [Чек-лист](https://docs.google.com/spreadsheets/d/1jKyZdeLLSySUX-1VODJOtKvpCNmJLHrE/edit#gid=1590602191) 
 тестирования функционала авторизации и регистрации [макета экрана](https://drive.google.com/file/d/1F-gtjUhO4rj9WWoVzXjpO0oxZapE8M0q/view)
-* Написала [баг-репорты](https://docs.google.com/spreadsheets/d/16im-k9GX8TdmWk_HzKeAHw6Uj-xAMp5n/edit?usp=share_link&ouid=101286617021931888000&rtpof=true&sd=true) 
+* [Баг-репорты](https://docs.google.com/spreadsheets/d/16im-k9GX8TdmWk_HzKeAHw6Uj-xAMp5n/edit?usp=share_link&ouid=101286617021931888000&rtpof=true&sd=true) 
 приложение Everybook, которое позволяет читать книги бесплатно или за деньги
 * [Тестирование iOS-приложений](https://docs.google.com/spreadsheets/d/13uJ5gpJOm6hSq6GdT-A5ygsv7SK5tR9A/edit#gid=1543294894)
 * [Тестирование Android-приложений](https://docs.google.com/spreadsheets/d/113KHRjraFRB0fRs0KWH4yx2iS_OX3Nx4/edit#gid=1735986246)
