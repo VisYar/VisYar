@@ -64,7 +64,7 @@
 <details>
   <summary>Postman: чек-листы, баг-репорты, отчеты</summary>
 
-- написала набор тест-кейсов [**тест-кейсов**](https://docs.google.com/spreadsheets/d/1ACH61ezvwCENe1czIV1scVWq7XFnSZ7d/edit?usp=share_link&ouid=101286617021931888000&rtpof=true&sd=true);
+- написала набор [**тест-кейсов**](https://docs.google.com/spreadsheets/d/1ACH61ezvwCENe1czIV1scVWq7XFnSZ7d/edit?usp=share_link&ouid=101286617021931888000&rtpof=true&sd=true);
 - произвела автоматизацию тест кейсов [postman_collection](https://github.com/VisYar/Postman-REST_API/blob/master/Stepik%20Course.postman_collection.json), 
 [postman_environment](https://github.com/VisYar/Postman-REST_API/blob/master/Stepik%20Course%20Env.postman_environment.json);
 - оформила [**баг-репорты**](https://docs.google.com/spreadsheets/d/1f7ls2PtKuuTqcZKzjp7Y_bObJvtiqror/edit?usp=share_link&ouid=101286617021931888000&rtpof=true&sd=true);
@@ -158,7 +158,11 @@
 <details>
   <summary>Тестирование безопасности</summary>
 
-* []()
+* [Работа с программными анализаторами трафика — сниферами]()
+* [Инъекции и уязвимости на уровне ОС]()
+* [SQL, XSS, Code и другие инъекции]()
+* [Сетевая безопасность]()
+
 </details>
 
 ### Сертификаты
