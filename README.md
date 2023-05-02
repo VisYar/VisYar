@@ -2,131 +2,177 @@
   <img title="|Customized by Tatyana Dmitrieva|"src="https://readme-typing-svg.herokuapp.com?color=32CD32&font=Knewave&size=40&center=true&vCenter=true&lines=Wellcome+to;my+GitHub">
 </p>
 
-## Обо мне
+### Обо мне
 
-Я, Дмитриева Татьяна, студент "Нетология" [**курс "Инженер по тестированию: с нуля до middle"**](https://netology.ru/programs/qa-middle#/)
+Привет, меня зовут Татьяна. Прохожу профессиональную переподготовку в Нетологии по специальности 
+[**"Инженер по тестированию: с нуля до middle"**](https://netology.ru/programs/qa-middle#/). 
+Стремлюсь присоединиться к команде, где смогу применить свои навыки для содействия успеху организации.
 <p align="center">
 Инструменты и языки программирования:
-</p> 
 <p align="center">
-<img width="40" src="https://u.netology.ru/backend/uploads/page_assets/images/file/46328/tools_JIRA_color.png" 
-class="src-Landings-landing-ui-kit-components-Icon--root--OQrQH src-Landings-landing-ui-kit-components-Resume-components-Technology--icon--CLYDE" title="Jira" alt=" | JIRA">
-<img width="40" src="https://u.netology.ru/backend/uploads/page_assets/images/file/46324/tools_Postman_color.png" 
-class="src-Landings-landing-ui-kit-components-Icon--root--OQrQH src-Landings-landing-ui-kit-components-Resume-components-Technology--icon--CLYDE" title="Postman" alt=" | Postman">
-<img width="40" src="https://u.netology.ru/backend/uploads/page_assets/images/file/46280/tools_SQL_color.png" 
-class="src-Landings-landing-ui-kit-components-Icon--root--OQrQH src-Landings-landing-ui-kit-components-Resume-components-Technology--icon--CLYDE" title="SQL" alt=" | SQL">
-<img width="40" src="https://u.netology.ru/backend/uploads/page_assets/images/file/46313/tools_GIT_color.png" 
-class="src-Landings-landing-ui-kit-components-Icon--root--OQrQH src-Landings-landing-ui-kit-components-Resume-components-Technology--icon--CLYDE" title="Git" alt=" | Git">
-<img width="40" src="https://u.netology.ru/backend/uploads/page_assets/images/file/46300/tools_GitHub_color.png" 
-class="src-Landings-landing-ui-kit-components-Icon--root--OQrQH src-Landings-landing-ui-kit-components-Resume-components-Technology--icon--CLYDE" title="GitHub" alt=" | GitHub">
-<img width="40" src="https://u.netology.ru/backend/uploads/page_assets/images/file/46322/tools_Java_color.png" 
-class="src-Landings-landing-ui-kit-components-Icon--root--OQrQH src-Landings-landing-ui-kit-components-Resume-components-Technology--icon--CLYDE" title="Java" alt=" | Java">
-<img width="40" src="https://u.netology.ru/backend/uploads/page_assets/images/file/46323/tools_IntelliJ_IDEA_color.png" 
-class="src-Landings-landing-ui-kit-components-Icon--root--OQrQH src-Landings-landing-ui-kit-components-Resume-components-Technology--icon--CLYDE" title="IntelliJIDEA" alt=" | IntelliJ_IDEA">
-<img width="40" src="https://u.netology.ru/backend/uploads/page_assets/images/file/46334/tools_Gradle_color.png" 
-class="src-Landings-landing-ui-kit-components-Icon--root--OQrQH src-Landings-landing-ui-kit-components-Resume-components-Technology--icon--CLYDE" title="Gradle" alt=" | Gradle">
-<img width="40" src="https://u.netology.ru/backend/uploads/page_assets/images/file/46326/tools_Selenium_color.png" 
-class="src-Landings-landing-ui-kit-components-Icon--root--OQrQH src-Landings-landing-ui-kit-components-Resume-components-Technology--icon--CLYDE" title="Selenium" alt=" | Selenium">
-<img width="40" src="https://u.netology.ru/backend/uploads/page_assets/images/file/46327/tools_JUnit_color.png" 
-class="src-Landings-landing-ui-kit-components-Icon--root--OQrQH src-Landings-landing-ui-kit-components-Resume-components-Technology--icon--CLYDE" title="JUnit" alt=" | JUnit">
-<img width="40" src="https://u.netology.ru/backend/uploads/page_assets/images/file/46306/tools_Docker_color.png" 
-class="src-Landings-landing-ui-kit-components-Icon--root--OQrQH src-Landings-landing-ui-kit-components-Resume-components-Technology--icon--CLYDE" title="Docker" alt=" | Docker">
-<img width="40" src="https://u.netology.ru/backend/uploads/page_assets/images/file/46331/tools_Jenkins_color.png" 
-class="src-Landings-landing-ui-kit-components-Icon--root--OQrQH src-Landings-landing-ui-kit-components-Resume-components-Technology--icon--CLYDE" title="Jenkins" alt=" | Jenkins">
-<img width="40" src="https://u.netology.ru/backend/uploads/page_assets/images/file/46332/tools_Android_Studio_color.png" 
-class="src-Landings-landing-ui-kit-components-Icon--root--OQrQH src-Landings-landing-ui-kit-components-Resume-components-Technology--icon--CLYDE" title="Android_Studio" alt=" | Android_Studio">
-<img width="40" src="https://u.netology.ru/backend/uploads/page_assets/images/file/46330/tools_Espresso_color.png" 
-class="src-Landings-landing-ui-kit-components-Icon--root--OQrQH src-Landings-landing-ui-kit-components-Resume-components-Technology--icon--CLYDE" title="Espresso" alt=" | Espresso">
-<img width="40" src="https://u.netology.ru/backend/uploads/page_assets/images/file/46289/tools_JavaScript_color.png" 
-class="src-Landings-landing-ui-kit-components-Icon--root--OQrQH src-Landings-landing-ui-kit-components-Resume-components-Technology--icon--CLYDE" title="JavaScript" alt=" | JavaScript">
-<img width="40" src="https://u.netology.ru/backend/uploads/page_assets/images/file/46277/tools_Python_color.png" 
-class="src-Landings-landing-ui-kit-components-Icon--root--OQrQH src-Landings-landing-ui-kit-components-Resume-components-Technology--icon--CLYDE" title="Python" alt=" | Python">
-<img width="40" src="https://u.netology.ru/backend/uploads/page_assets/images/file/46366/tools_Wireshark_color.png" 
-class="src-Landings-landing-ui-kit-components-Icon--root--OQrQH src-Landings-landing-ui-kit-components-Resume-components-Technology--icon--LYDQC" title="Wireshark" alt=" | Wireshark Популярный сетевой анализатор для оценки трафика, проходящего через сетевой интерфейс компьютера. Полезен для обнаружения и решения проблем с сетью, отладки приложений, сетевых программ или сайтов >
-</p> 
-
-## Контакты 
-
-<p>
-
-[<img title="Email" alt=" | Email" width="50px" src="https://img.shields.io/badge/Email-32CD32?style=for-the-badge&logoColor=white">](mailto:dmitrieva_ta@mail.ru)
-[<img title="Telegram" alt=" | Telegram" width="85px" src="https://img.shields.io/badge/Telegram-6A54DF?style=for-the-badge&logo=telegram&logoColor=white">](https://t.me/vis_yar)
-[<img title="Discord" alt=" | Discord" width="78px" src="https://img.shields.io/badge/Discord-%2332CD32.svg?style=for-the-badge&logo=discord&logoColor=white">](https://discordapp.com/users/986921661892821002/)
+   <img width="60" title="Jira" src="https://img.shields.io/badge/-Jira-32CD32?style=for-the-badge&logo=jira&logoColor=white">
+   <img width="85" title="Postman" src="https://img.shields.io/badge/-Postman-6A54DF?style=for-the-badge&logo=postman&logoColor=white">
+   <img width="87" title="Swagger" src="https://img.shields.io/badge/-Swagger-32CD32?style=for-the-badge&logo=Swagger&logoColor=white">
+   <img width="75" title="DevTools" src="https://img.shields.io/badge/-DevTools-6A54DF?logo=&style=for-the-badge&logoColor=white">
+   <img width="70" title="MySQL" src="https://img.shields.io/badge/-MySQL-32CD32?style=for-the-badge&logo=MySQL&logoColor=white">
+   <img width="103" title="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-6A54DF?style=for-the-badge&logo=PostgreSQL&logoColor=white">
+   <img width="54" title="Git" src="https://img.shields.io/badge/-Git-32CD32?logo=git&style=for-the-badge&logoColor=white">
+   <img width="76" title="GitHub" src="https://img.shields.io/badge/-GitHub-6A54DF?style=for-the-badge&logo=GitHub">
+   <img width="77" title="Docker" src="https://img.shields.io/badge/-Docker-32CD32?style=for-the-badge&logo=Docker&logoColor=white">
+   <img width="45" title="Java" src="https://img.shields.io/badge/-Java-6A54DF?style=for-the-badge&logo=Java">
+   <img width="109" title="Intellij Idea" src="https://img.shields.io/badge/IntelliJIDEA-32CD32.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
+   <img width="76" title="Gradle" src="https://img.shields.io/badge/-Gradle-6A54DF?logo=gradle&style=for-the-badge">
+   <img width="75" title="JUnit 5" src="https://img.shields.io/badge/-JUnit_5-32CD32?logo=junit5&style=for-the-badge&logoColor=white">
+   <img width="86" title="Selenium" src="https://img.shields.io/badge/-Selenium-6A54DF?style=for-the-badge&logo=Selenium&logoColor=white">
+   <img width="56" title="Allure" src="https://img.shields.io/badge/-Allure-32CD32?&style=for-the-badge">
+   <img width="89" title="Cucumber" src="https://img.shields.io/badge/-Cucumber-6A54DF?style=for-the-badge&logo=Cucumber&logoColor=white">
+   <img width="95" title="Java Script" src="https://img.shields.io/badge/-JavaScript-32CD32?style=for-the-badge&logo=JavaScript&logoColor=white">
+   <img width="100" title="Playwright" src="https://img.shields.io/badge/-Playwright-6A54DF?style=for-the-badge&logo=Playwright&logoColor=white">
+   <img width="92" title="Puppeteer" src="https://img.shields.io/badge/-Puppeteer-32CD32?style=for-the-badge&logo=Puppeteer&logoColor=white">
+   <img width="78" title="Cypress" src="https://img.shields.io/badge/-Cypress-6A54DF?style=for-the-badge&logo=Cypress&logoColor=white">
+   <img width="75" title="Jenkins" src="https://img.shields.io/badge/-Jenkins-32CD32?style=for-the-badge&logo=Jenkins&logoColor=white">
+   <img width="98" title="Charles Proxy" src="https://img.shields.io/badge/-CharlesProxy-6A54DF?style=for-the-badge&logo=CharlesProxy&logoColor=white">
+   <img width="70" title="Espresso" src="https://img.shields.io/badge/-Espresso-32CD32?style=for-the-badge&logo=Espresso">
+   <img width="58" title="Appium" src="https://img.shields.io/badge/-Appium-6A54DF?style=for-the-badge&logo=Appium">
+   <img width="91" title="UI Automator" src="https://img.shields.io/badge/-UIAutomator-32CD32?style=for-the-badge&logo=UIAutomator">
+   <img width="70" title="JMeter" src="https://img.shields.io/badge/-JMeter-6A54DF?style=for-the-badge&logo=apache&logoColor=white">
+   <img width="78" title="Wireshark" src="https://img.shields.io/badge/-Wireshark-32CD32?&style=for-the-badge">
 </p>
 
-## Портфолио
-### Мои проекты
-1. [**Курсовой проект по модулю «Автоматизация тестирования»**](https://github.com/VisYar/CourseProjectQAv3)
-<p align="center">
-  <img width="109" title="Intellij Idea" src="https://img.shields.io/badge/IntelliJIDEA-6A54DF.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
-  <img width="45" title="Java" src="https://img.shields.io/badge/java-%2332CD32.svg?style=for-the-badge&logo=java&logoColor=white">
-  <img width="53" title="Git" src="https://img.shields.io/badge/-Git-6A54DF?logo=git&style=for-the-badge&logoColor=white">
-  <img width="76" title="Docker" src="https://img.shields.io/badge/-docker%20-%230.svg?&style=for-the-badge&logo=docker&logoColor=white">
-  <img width="75" title="Gradle" src="https://img.shields.io/badge/-Gradle-6A54DF?logo=gradle&style=for-the-badge">
-  <img width="75" title="JUnit 5" src="https://img.shields.io/badge/-JUnit_5-32CD32?logo=junit5&style=for-the-badge&logoColor=white">
-  <img width="65" title="Selenid" src="https://img.shields.io/badge/-Selenid-6A54DF?logo=Selenid&style=for-the-badge">
-  <img width="100" title="Rest Assured" src="https://img.shields.io/badge/-Rest_Assured-32CD32?logo=Rest-Assured&style=for-the-badge&logoColor=white">
-  <img width="105" title="Allure Report" src="https://img.shields.io/badge/-Allure_Report-6A54DF?&style=for-the-badge">
-</p>
-    В рамках курсовой работы:
+### Связаться со мной 
+phone: +7 (915) 974-10-38 <br>
+email: dmitrieva_ta@mail.ru <br>
+telegram: [@dmitrieva_yar](https://t.me/dmitrieva_yar)
 
-- провела исследовательское тестирование функционала покупки тура веб-сервиса "Путешествие дня"
-- составила [**план по автоматизации**](https://github.com/VisYar/CourseProjectQAv3/blob/master/reports/Plan.md) тестирования (API и UI)
-- написала тестовый фреймворк для управления данными и проверки состояния БД (`Faker`, `DBUtils`)
-- настроила систему докеризации приложения с поддержкой двух СУБД (`MySQL` и `PostgreSQL`)
-- автоматизировала  тестовые сценарии (API и  UI), используя паттерн `Page Object` и фреймворки `Selenide`, `REST Assured`
-- подключила и настроила `систему CI` так, чтобы тесты запускались с подключением `SUT` к обеим СУБД поочередно
+### Резюме
+[CV QA engineer](https://drive.google.com/file/d/1IUoX26Jn5Cl7iO7zLSwALH5D1brzGjky/view?usp=sharing)
+
+### Портфолио
+1. **Нетология: курсовой проект по модулю "Ручное тестирование веб-приложений"** <br>
+[Ссылка на задание](https://github.com/netology-code/iqa-diplom/blob/main/README.md) <br>
+
+В рамках курсовой работы по ручному тестированию сайта интернет-магазина https://henderson.ru/: <br>
+- написала [**чек-лист**](https://docs.google.com/spreadsheets/d/1fVctlIvn3Y_nF43Yz1QbibKp38DRH0pK911KfWMxIN8/edit?usp=sharing)
+функциональной проверки личного кабинета пользователя, включая функционал разделов;
+- провела тестирование ТЗ по процессу восстановления пароля и написала набор из 
+[**36 тест-кейсов**](https://docs.google.com/spreadsheets/d/1IYdrEYPvcBtIykTapIPARmtyHv4gjsrHd5Ul6YOfqAc/edit?usp=sharing);
+- оформила [**баг-репорты**](https://docs.google.com/spreadsheets/d/1gy9c4pwkHn61Du6dSgnEBPahbgjPGkovGISphLvA_fw/edit?usp=share_link) 
+на дефекты в функционале поиска и отзывов на товар;
+- провела тестирование верстки и изучение структуры POST запросов при помощи `DevTools`.
+
+2. **Stepik: Тестирование REST API в Postman**
+<details>
+  <summary>Postman: чек-листы, баг-репорты, интеграция</summary>
+
+</details>
+
+3. **Нетология**: [**командный проект по курсу "Java для тестировщиков. Тестирование приложения для трекинга игровой активности"**](https://github.com/VisYar/TeamDiplomChechikVisYar)<br>
+[Ссылка на задание](https://github.com/netology-code/javaqa-team-diplom)<br>
+В рамках командного проекта:
+
+- получила навык **командного взаимодействия** во время выполнения рабочих задач;
+- написала [**12 юнит тестов**](https://github.com/ChechikJan/TeamDiplomChechikVisYar/blob/master/src/test/java/ru/netology/GameStoreTest.java) 
+на языке `Java` на заготовку кода приложения для трекинга игровой активности;
+- оформила [**5 баг-репортов**](https://github.com/ChechikJan/TeamDiplomChechikVisYar/issues?q=is%3Aissue+is%3Aclosed) 
+по найденным дефектам;
+- исправила код приложения по 3 баг-репортам;
+- провела статическое тестирование (ревью) кода, выполненного другим участником команды;
+- настроили систему `CI (GitHub Actions)`.
+
+4. **Нетология**: [**курсовой проект «Автоматизация тестирования комплексного сервиса, взаимодействующего с СУБД и API Банка. Тестирование веб-сервиса для покупки тура»**](https://github.com/VisYar/CourseProjectQAv3)  <br>
+[Ссылка на задание](https://github.com/netology-code/aqa-qamid-diplom) <br>
+В рамках курсовой работы:
+
+- провела исследовательское тестирование функционала покупки тура веб-сервиса "Путешествие дня";
+- составила [**план по автоматизации**](https://github.com/VisYar/CourseProjectQAv3/blob/master/reports/Plan.md) тестирования (API и UI);
+- настроила систему докеризации `Docker-compose` приложения с поддержкой двух СУБД (`MySQL` и `PostgreSQL`);
+- автоматизировала  тестовые сценарии (API и  UI), используя паттерн `Page Object` и фреймворки `Selenide`, `REST Assured`;
+- подключила и настроила `систему CI` так, чтобы тесты запускались с подключением `SUT` к обеим СУБД поочередно;
 - оформила [**19 issue**](https://github.com/VisYar/CourseProjectQAv3/issues) по найденным дефектам
-- составила [**отчет о проведенном тестировании**](https://github.com/VisYar/CourseProjectQAv3/blob/master/reports/Report.md) с подключенным `Allure`
-- составила [**отчет о проведённой автоматизации тестирования**](https://github.com/VisYar/CourseProjectQAv3/blob/master/reports/Summary.md)
+- составила [**отчет о проведенном тестировании**](https://github.com/VisYar/CourseProjectQAv3/blob/master/reports/Report.md) с подключенным `Allure`;
+- составила [**отчет о проведённой автоматизации тестирования**](https://github.com/VisYar/CourseProjectQAv3/blob/master/reports/Summary.md).
 
-2. [**Командный проект по курсу "Java для тестировщиков"**](https://github.com/VisYar/TeamDiplomChechikVisYar)<br>
-   Задание командного проекта находится [тут](https://github.com/netology-code/javaqa-team-diplom)<br>
-<p align="center">
-  <img width="109" title="Intellij Idea" src="https://img.shields.io/badge/IntelliJIDEA-6A54DF.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
-  <img width="45" title="Java" src="https://img.shields.io/badge/-Java-32CD32?logo=java&style=for-the-badge">
-  <img width="53" title="Git" src="https://img.shields.io/badge/-Git-6A54DF?logo=git&style=for-the-badge&logoColor=white">
-  <img width="54" title="Maven" src="https://img.shields.io/badge/-Maven-32CD32?logo=Rest-Assured&style=for-the-badge&logoColor=white">
-<img width="109" title="GitHub Actions" src="https://img.shields.io/badge/GitHub Actions-6A54DF.svg?style=for-the-badge&logo=&logoColor=white">
-</p>
-    В рамках командного проекта:
-   
-- получила навык **командного взаимодействия** во время выполнения рабочих задач
-- написала [**12 юнит тестов**](https://github.com/ChechikJan/TeamDiplomChechikVisYar/blob/master/src/test/java/ru/netology/GameStoreTest.java) на заготовку кода приложения для трекинга игровой активности
-- оформила [**5 баг-репортов**](https://github.com/ChechikJan/TeamDiplomChechikVisYar/issues?q=is%3Aissue+is%3Aclosed) по найденным дефектам
-- исправила код приложения по 3 баг-репортам, оформленным другим участником команды
-- провела ревью кода, выполненного другим участником команды
-- настроили систему `CI (GitHub Actions)` с напарником по команде 
-   
-3. [**Курсовая работа по модулю "Ручное тестирование веб-приложений"**]()<br>
-  Задание курсовой работы находится [тут](https://github.com/netology-code/iqa-diplom/blob/main/README.md) <br>
-<p align="center">
-   <img width="97" title="Google_Drive" src="https://img.shields.io/badge/-Google_Drive-6A54DF?logo=&style=for-the-badge&logoColor=white">
-   <img width="43" title="Jira" src="https://img.shields.io/badge/-Jira-32CD32?logo=java&style=for-the-badge">
-   <img width="74" title="DevTools" src="https://img.shields.io/badge/-DevTools-6A54DF?logo=&style=for-the-badge&logoColor=white">
-</p>
-  В рамках курсовой по ручному тестированию сайта интернет-магазина https://henderson.ru/: <br>
+<details>
+  <summary>Автоматизация тестирования на Java</summary>
 
-- написала [**чек-лист**](https://docs.google.com/spreadsheets/d/1fVctlIvn3Y_nF43Yz1QbibKp38DRH0pK911KfWMxIN8/edit?usp=sharing) функциональной проверки личного кабинета пользователя, включая функционал разделов
-- провела тестирование ТЗ по процессу восстановления пароля и написала набор из [**36 тест-кейсов**](https://docs.google.com/spreadsheets/d/1IYdrEYPvcBtIykTapIPARmtyHv4gjsrHd5Ul6YOfqAc/edit?usp=sharing)
-- оформила 6 баг-репортов  в `Jira` [тут](pdf/B1.pdf), [тут](pdf/B2.pdf), [тут](pdf/B3.pdf), [тут](pdf/B4.pdf), [тут](pdf/B5.pdf), [тут](pdf/B6.pdf), 
-на дефекты в функционале поиска и отзывов на товар [файл Excel](https://docs.google.com/spreadsheets/d/1gy9c4pwkHn61Du6dSgnEBPahbgjPGkovGISphLvA_fw/edit?usp=share_link)
-- провела тестирование верстки и изучение структуры POST запросов при помощи `DevTools`
-  
-<p align="center">
-  <a href="https://github.com/VisYar?tab=repositories"><img width="140" alt="All Repositories" title="All Repositories" 
-src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repositories-32CD32?style=for-the-badge&logoColor=white&logo=repo"></a>
-</p>
+* ["TestNG/Junit4/Junit5"](https://github.com/VisYar/HWAuto1-CashBackHacker): `TestNG` , `Junit4`, `Junit5`
+* ["Тестирование API/CI"](https://github.com/VisYar/HWAuto2-API-CI): `AppVeyor`, `Gradle`, `REST-assured`, `CI`
+* ["Postman Echo"](https://github.com/VisYar/HWAutoPostmanEcho): `Postman Echo`, `Gradle`
+* ["Selenium: заказ карты"](https://github.com/VisYar/HWAuto3-CardOrder): `Junit5`, `Gradle`, `Selenium`
+* ["Selenide: заказ карты"](https://github.com/VisYar/HWAuto4-CardDelivery): `IDEA`, `Junit5`, `Gradle`, `Selenide`, `DevTools`, `XPath`
+* ["Заказ доставки карты (изменение даты)"](https://github.com/VisYar/HWAuto5.1): `Junit5`, `Gradle`, `Selenide`, `JavaFaker`, `Lombok`
+* ["Page Object's"](https://github.com/VisYar/HWAuto6.1): `Junit5`, `Gradle`, `Selenide`, `Page Object`
+* ["Docker/PostgreSQL"](https://github.com/VisYar/HWAutoDocker): `Docker`, `PostgreSQL`
+* ["SQL"](https://github.com/VisYar/HWAutoSQL): `Junit5`, `Gradle`, `Selenide`, `JavaFaker`, `Docker`, `MySQL`
+* ["Allure"](https://github.com/VisYar/HWAutoAllure): `Allure`, `CI`
+</details>
 
-## Сертификаты
+<details>
+  <summary>Автоматизация тестирования на JavaScript</summary>
 
-[Ручное тестирование веб-приложений](pdf/certificateManualtect.pdf)<br>
-[Java для тестировщиков](pdf/certificateJava.pdf)<br>
-[Автоматизированное
-тестирование веб-приложений на
-Java](pdf/certificateAutojava.pdf)<br>
-[Основы вёрстки сайта](pdf/certificateVerstka.pdf)<br>
-[Git — система контроля версий](pdf/certificateGit.pdf)<br>
-[Основы языка программирования Python](pdf/certificatePython.pdf)<br>
+* [JavaScript для тестировщиков](https://github.com/VisYar/bjs-2-homeworks)
+* ["Jest. Unit-тесты и отчёты"](https://github.com/VisYar/HWJS3.1-Jest): `Visual Studio Code`, `JS`, `Jest`
+* ["UI-тест на Playwright"](https://github.com/VisYar/HWJS3.2-Playwright): `Visual Studio Code`, `JS`, `Playwright`
+* ["Puppeteer & Cucumber"](https://github.com/VisYar/HW5-Puppeteer2): `Visual Studio Code`, `JS`, `Jest`, `Puppeteer`, `Cucumber`
+* ["Автоматизация тестирования бронирования билетов в кинотеатр"](https://github.com/VisYar/HW7-Cypress1-2):`Visual Studio Code`, 
+`JS`, `Cypress`, `Dashboard`
+</details>
+
+<details>
+  <summary>Тестирование мобильных приложений (ручное и автоматизированное)</summary>
+
+* Составила [чек-лист](https://docs.google.com/spreadsheets/d/1jKyZdeLLSySUX-1VODJOtKvpCNmJLHrE/edit#gid=1590602191) 
+тестирования функционала авторизации и регистрации [макета экрана](https://drive.google.com/file/d/1F-gtjUhO4rj9WWoVzXjpO0oxZapE8M0q/view)
+* Написала [баг-репорты](https://docs.google.com/spreadsheets/d/16im-k9GX8TdmWk_HzKeAHw6Uj-xAMp5n/edit?usp=share_link&ouid=101286617021931888000&rtpof=true&sd=true) 
+приложение Everybook, которое позволяет читать книги бесплатно или за деньги
+* [Тестирование iOS-приложений](https://docs.google.com/spreadsheets/d/13uJ5gpJOm6hSq6GdT-A5ygsv7SK5tR9A/edit#gid=1543294894)
+* [Тестирование Android-приложений](https://docs.google.com/spreadsheets/d/113KHRjraFRB0fRs0KWH4yx2iS_OX3Nx4/edit#gid=1735986246)
+* [Инструменты для тестирования МП. Среда разработки](https://docs.google.com/spreadsheets/d/1h2ntpT6pe62U1ciNJn6zNcrLD8czPtze/edit#gid=2125705167)
+* [Снифферинг. Настройка и возможности](https://docs.google.com/spreadsheets/d/1KkD_3OGjFK5q0bo58U-j7393b9zMfLuQ/edit#gid=880464926)
+* [Выбор устройств для тестирования](https://docs.google.com/spreadsheets/d/1qOwfyLgCMdnxfP03RARhdPTYIofkvv5Y/edit#gid=154959461)
+* [Особенности тестирования на мобильных устройствах](https://docs.google.com/spreadsheets/d/1N7CYmLmN9D5V38jH2u5ourN1CRZ_u0Pj/edit#gid=1782476865)
+
+* ["UIAutomator. Автоматизация тестирования Android"](https://github.com/VisYar/HW2.2-UIAutomator)
+* ["Appium. Кроссплатформенная мобильная автоматизация тестирования"](https://github.com/VisYar/HW2.4-Appium)
+* ["Espresso. Автоматизация тестирования Android"](https://github.com/VisYar/HW2.5-Espresso)
+* ["Espresso. Продвинутая автоматизация тестирования Android»"](https://github.com/VisYar/HW2.6-Espresso2)
+</details>
+
+<details>
+  <summary>Тестирование производительности</summary>
+
+* [Планирование НТ](https://docs.google.com/document/d/1Sb-FEL2rAA1jEqU66Ino-OAYRzUT5FtT/edit#heading=h.gjdgxs)
+* [Подготовка стенда нагрузочного тестирования](https://github.com/VisYar/HW-2_Preparation_of_the_load_testing_stand/tree/master)
+* [Blog Проведение нагрузочного веб-тестирования](https://github.com/VisYar/HW3-Blog)
+* [Проведение нагрузочного веб-тестирования сайта кинотеатра](https://github.com/VisYar/HW3-websiteCinema)
+* [Проведение нагрузочного тестирования DB]()
+* [Подготовка отчета о тестировании]()
+* 
+</details>
+
+<details>
+  <summary>Тестирование безопасности</summary>
+
+* []()
+</details>
+
+### Сертификаты
+
+Нетология, 2022-2023 год
+* [Git — система контроля версий](pdf/certificateGit.pdf)
+* [Ручное тестирование веб-приложений](pdf/certificateManualtect.pdf)
+* [Java для тестировщиков](pdf/certificateJava.pdf)
+* [Автоматизированное тестирование веб-приложений на Java](pdf/certificateAutojava.pdf)
+* [JavaScript для тестировщиков](pdf/certificateJavaScript.pdf)
+* [Автоматизированное тестирование интерфейсов на JavaScript](pdf/certificateAutoJavaScript.pdf)
+* [Тестирование мобильных приложений](pdf/certificateMobileApplications.pdf)
+* [Тестирование производительности](pdf/certigicatePerformanceTesting.pdf)
+* [Тестирование безопасности]()
+* [Основы вёрстки сайта](pdf/certificateVerstka.pdf)
+* [Основы языка программирования Python](pdf/certificatePython.pdf)
+
+Stepik, 2023 год
+* [Тестирование REST API в Postman - легкий старт в автоматизацию](pdf/certigicatePostman.pdf)
+* [Начальный курс SQL от Новичка до Специалиста](pdf/certigicateSQL.pdf)
 
 [![codewars](https://www.codewars.com/users/rsschool_VisYar/badges/small/)](https://www.codewars.com/users/rsschool_VisYar)
