@@ -62,7 +62,7 @@
 
 2. **Stepik: Тестирование REST API в Postman**
 <details>
-  <summary>Postman: чек-листы, баг-репорты, интеграция</summary>
+  <summary>Postman: чек-листы, баг-репорты, отчеты</summary>
 
 - написала набор тест-кейсов [**тест-кейсов**](https://docs.google.com/spreadsheets/d/1ACH61ezvwCENe1czIV1scVWq7XFnSZ7d/edit?usp=share_link&ouid=101286617021931888000&rtpof=true&sd=true);
 - произвела автоматизацию тест кейсов [postman_collection](https://github.com/VisYar/Postman-REST_API/blob/master/Stepik%20Course.postman_collection.json), 
@@ -70,8 +70,7 @@
 - оформила [**баг-репорты**](https://docs.google.com/spreadsheets/d/1f7ls2PtKuuTqcZKzjp7Y_bObJvtiqror/edit?usp=share_link&ouid=101286617021931888000&rtpof=true&sd=true);
 - сформировала отчет в Newman [link](https://github.com/VisYar/Postman-REST_API/blob/master/NewmanRunDashboard.png);
 - сформировала отчет в Allure [link](https://github.com/VisYar/Postman-REST_API/blob/master/Allure1.png) и [link](https://github.com/VisYar/Postman-REST_API/blob/master/Allure2.png)
-
-/details>
+</details>
 
 3. **Нетология**: [**командный проект по курсу "Java для тестировщиков. Тестирование приложения для трекинга игровой активности"**](https://github.com/VisYar/TeamDiplomChechikVisYar)<br>
 [Ссылка на задание](https://github.com/netology-code/javaqa-team-diplom)<br>
