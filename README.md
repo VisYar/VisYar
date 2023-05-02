@@ -137,7 +137,6 @@
 * [Снифферинг. Настройка и возможности](https://docs.google.com/spreadsheets/d/1KkD_3OGjFK5q0bo58U-j7393b9zMfLuQ/edit#gid=880464926)
 * [Выбор устройств для тестирования](https://docs.google.com/spreadsheets/d/1qOwfyLgCMdnxfP03RARhdPTYIofkvv5Y/edit#gid=154959461)
 * [Особенности тестирования на мобильных устройствах](https://docs.google.com/spreadsheets/d/1N7CYmLmN9D5V38jH2u5ourN1CRZ_u0Pj/edit#gid=1782476865)
-
 * ["UIAutomator. Автоматизация тестирования Android"](https://github.com/VisYar/HW2.2-UIAutomator)
 * ["Appium. Кроссплатформенная мобильная автоматизация тестирования"](https://github.com/VisYar/HW2.4-Appium)
 * ["Espresso. Автоматизация тестирования Android"](https://github.com/VisYar/HW2.5-Espresso)
