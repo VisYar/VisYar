@@ -40,9 +40,9 @@
 </p>
 
 ### Связаться со мной 
-phone: +7 (915) 974-10-38 <br>
-email: dmitrieva_ta@mail.ru <br>
-telegram: [@dmitrieva_yar](https://t.me/dmitrieva_yar)
+`phone` +7 (915) 974-10-38 <br>
+`email` dmitrieva_ta@mail.ru <br>
+`telegram` [@dmitrieva_yar](https://t.me/dmitrieva_yar)
 
 ### Резюме
 [CV QA engineer](https://drive.google.com/file/d/1IUoX26Jn5Cl7iO7zLSwALH5D1brzGjky/view?usp=sharing)
@@ -147,7 +147,7 @@ telegram: [@dmitrieva_yar](https://t.me/dmitrieva_yar)
 * [Проведение нагрузочного веб-тестирования сайта кинотеатра](https://github.com/VisYar/HW3-websiteCinema)
 * [Проведение нагрузочного тестирования DB]()
 * [Подготовка отчета о тестировании]()
-* 
+
 </details>
 
 <details>
