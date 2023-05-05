@@ -187,7 +187,7 @@
 * [Автоматизированное тестирование интерфейсов на JavaScript](pdf/certificateAutoJavaScript.pdf)
 * [Тестирование мобильных приложений](pdf/certificateMobileApplications.pdf)
 * [Тестирование производительности](pdf/certigicatePerformanceTesting.pdf)
-* [Тестирование безопасности]()
+* [Тестирование безопасности](pdf/certigicateSecurityTesting.pdf)
 * [Основы вёрстки сайта](pdf/certificateVerstka.pdf)
 * [Основы языка программирования Python](pdf/certificatePython.pdf)
 
