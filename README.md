@@ -48,8 +48,8 @@
 [CV QA engineer](https://drive.google.com/file/d/1IUoX26Jn5Cl7iO7zLSwALH5D1brzGjky/view?usp=sharing)
 
 ### Портфолио
-1. **Нетология: курсовой проект по модулю "Ручное тестирование веб-приложений"** <br>
-[Ссылка на задание](https://github.com/netology-code/iqa-diplom/blob/main/README.md) <br>
+**1. Нетология: Курсовой проект по модулю "Ручное тестирование веб-приложений"** <br>
+[Ссылка на задание](https://github.com/netology-code/iqa-diplom/blob/main/README.md)
 
 <details>
   <summary>Что было сделано в рамках проекта:</summary>
@@ -63,7 +63,7 @@
 - провела тестирование верстки и изучение структуры POST запросов при помощи `DevTools`.
 </details>
 
-2. **Stepik: Тестирование REST API в Postman** [программа курса](https://stepik.org/course/131052/syllabus)
+**2. Stepik: Тестирование REST API в Postman** [программа курса](https://stepik.org/course/131052/syllabus)
 
 <details>
   <summary>Postman: чек-листы, баг-репорты, отчеты</summary>
@@ -76,7 +76,7 @@
 - сформировала отчет в Allure [link](https://github.com/VisYar/Postman-REST_API/blob/master/Allure1.png) и [link](https://github.com/VisYar/Postman-REST_API/blob/master/Allure2.png)
 </details>
 
-3. **Нетология**: [**командный проект по курсу "Java для тестировщиков. Тестирование приложения для трекинга игровой активности"**](https://github.com/VisYar/TeamDiplomChechikVisYar)<br>
+**3. Нетология**: [**Командный проект по курсу "Java для тестировщиков. Тестирование приложения для трекинга игровой активности"**](https://github.com/VisYar/TeamDiplomChechikVisYar)<br>
 [Ссылка на задание](https://github.com/netology-code/javaqa-team-diplom)<br>
 
 <details>
@@ -92,7 +92,7 @@
 - настроили систему `CI (GitHub Actions)`.
 </details>
 
-4. **Нетология**: [**курсовой проект «Автоматизация тестирования комплексного сервиса, взаимодействующего с СУБД и API Банка. Тестирование веб-сервиса для покупки тура»**](https://github.com/VisYar/CourseProjectQAv3)  <br>
+**4. Нетология:** [**Курсовой проект «Автоматизация тестирования комплексного сервиса, взаимодействующего с СУБД и API Банка. Тестирование веб-сервиса для покупки тура»**](https://github.com/VisYar/CourseProjectQAv3)  <br>
 [Ссылка на задание](https://github.com/netology-code/aqa-qamid-diplom) <br>
 
 <details>
@@ -108,7 +108,7 @@
 - составила [**отчет о проведённой автоматизации тестирования**](https://github.com/VisYar/CourseProjectQAv3/blob/master/reports/Summary.md).
 </details>
 
-5. Другие направления и ссылки на проекты
+**5. Другие направления и ссылки на проекты**
 <details>
   <summary>Автоматизация тестирования на Java</summary>
 
@@ -169,9 +169,9 @@
 <details>
   <summary>Тестирование безопасности</summary>
 
-* [Работа с программными анализаторами трафика — сниферами]()
-* [Инъекции и уязвимости на уровне ОС]()
-* [SQL, XSS, Code и другие инъекции]()
+* [Работа с программными анализаторами трафика — сниферами](https://docs.google.com/document/d/1Ws4fuYp200tFtzNrYwYEt9zpXUIyzVIEJqJpCxUQ9V0/edit#)
+* [Инъекции и уязвимости на уровне ОС](https://docs.google.com/document/d/10EnDnBv55MjJ5KXx5JQ9sxigU0EVbYXquPmE2Eb-6AM/edit?usp=sharing)
+* [SQL, XSS, Code и другие инъекции](https://docs.google.com/document/d/1KWTlbnEs5IbPTZKs6dGmObBkmRHu3mq36At23h-huiU/edit?usp=sharing)
 * [Сетевая безопасность]()
 
 </details>
