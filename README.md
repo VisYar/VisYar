@@ -51,7 +51,9 @@
 1. **Нетология: курсовой проект по модулю "Ручное тестирование веб-приложений"** <br>
 [Ссылка на задание](https://github.com/netology-code/iqa-diplom/blob/main/README.md) <br>
 
-В рамках курсовой работы по ручному тестированию сайта интернет-магазина https://henderson.ru/: <br>
+<details>
+  <summary>Что было сделано в рамках проекта:</summary>
+
 - написала [**чек-лист**](https://docs.google.com/spreadsheets/d/1fVctlIvn3Y_nF43Yz1QbibKp38DRH0pK911KfWMxIN8/edit?usp=sharing)
 функциональной проверки личного кабинета пользователя, включая функционал разделов;
 - провела тестирование ТЗ по процессу восстановления пароля и написала набор из 
@@ -59,8 +61,10 @@
 - оформила [**баг-репорты**](https://docs.google.com/spreadsheets/d/1gy9c4pwkHn61Du6dSgnEBPahbgjPGkovGISphLvA_fw/edit?usp=share_link) 
 на дефекты в функционале поиска и отзывов на товар;
 - провела тестирование верстки и изучение структуры POST запросов при помощи `DevTools`.
+</details>
 
-2. **Stepik: Тестирование REST API в Postman**
+2. **Stepik: Тестирование REST API в Postman** [программа курса](https://stepik.org/course/131052/syllabus)
+
 <details>
   <summary>Postman: чек-листы, баг-репорты, отчеты</summary>
 
@@ -74,7 +78,9 @@
 
 3. **Нетология**: [**командный проект по курсу "Java для тестировщиков. Тестирование приложения для трекинга игровой активности"**](https://github.com/VisYar/TeamDiplomChechikVisYar)<br>
 [Ссылка на задание](https://github.com/netology-code/javaqa-team-diplom)<br>
-В рамках командного проекта:
+
+<details>
+  <summary>Что было сделано в рамках проекта:</summary>
 
 - получила навык **командного взаимодействия** во время выполнения рабочих задач;
 - написала [**12 юнит тестов**](https://github.com/ChechikJan/TeamDiplomChechikVisYar/blob/master/src/test/java/ru/netology/GameStoreTest.java) 
@@ -84,10 +90,13 @@
 - исправила код приложения по 3 баг-репортам;
 - провела статическое тестирование (ревью) кода, выполненного другим участником команды;
 - настроили систему `CI (GitHub Actions)`.
+</details>
 
 4. **Нетология**: [**курсовой проект «Автоматизация тестирования комплексного сервиса, взаимодействующего с СУБД и API Банка. Тестирование веб-сервиса для покупки тура»**](https://github.com/VisYar/CourseProjectQAv3)  <br>
 [Ссылка на задание](https://github.com/netology-code/aqa-qamid-diplom) <br>
-В рамках курсовой работы:
+
+<details>
+  <summary>Что было сделано в рамках проекта:</summary>
 
 - провела исследовательское тестирование функционала покупки тура веб-сервиса "Путешествие дня";
 - составила [**план по автоматизации**](https://github.com/VisYar/CourseProjectQAv3/blob/master/reports/Plan.md) тестирования (API и UI);
@@ -97,7 +106,9 @@
 - оформила [**19 issue**](https://github.com/VisYar/CourseProjectQAv3/issues) по найденным дефектам
 - составила [**отчет о проведенном тестировании**](https://github.com/VisYar/CourseProjectQAv3/blob/master/reports/Report.md) с подключенным `Allure`;
 - составила [**отчет о проведённой автоматизации тестирования**](https://github.com/VisYar/CourseProjectQAv3/blob/master/reports/Summary.md).
+</details>
 
+5. Другие направления и ссылки на проекты
 <details>
   <summary>Автоматизация тестирования на Java</summary>
 
