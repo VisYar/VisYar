@@ -43,10 +43,10 @@
 `phone` +7 (915) 974-10-38 <br>
 `email` dmitrieva_ta@mail.ru <br>
 `telegram` [@dmitrieva_yar](https://t.me/dmitrieva_yar)
-
+___
 ### Резюме
 [CV QA engineer](https://drive.google.com/file/d/1IUoX26Jn5Cl7iO7zLSwALH5D1brzGjky/view?usp=sharing)
-
+___
 ### Портфолио
 **1. Нетология: Курсовой проект по модулю "Ручное тестирование веб-приложений"** <br>
 [Ссылка на задание](https://github.com/netology-code/iqa-diplom/blob/main/README.md)
@@ -63,7 +63,8 @@
 - провела тестирование верстки и изучение структуры POST запросов при помощи `DevTools`.
 </details>
 
-**2. Stepik: Тестирование REST API в Postman** [программа курса](https://stepik.org/course/131052/syllabus)
+**2. Stepik: Тестирование REST API в Postman**  <br>
+[Программа курса](https://stepik.org/course/131052/syllabus)
 
 <details>
   <summary>Postman: чек-листы, баг-репорты, отчеты</summary>
@@ -176,6 +177,7 @@
 
 </details>
 
+---
 ### Сертификаты
 
 Нетология, 2022-2023 год
